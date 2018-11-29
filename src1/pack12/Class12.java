@@ -7,6 +7,10 @@ public class Class12 {
 		return 0;
 	}
 	
+ /*public void r(){
+	 System.err.println("r");
+ }*/
+	
 	
 	public int r1(){
 		System.err.println("r1");
