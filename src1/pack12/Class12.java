@@ -3,7 +3,7 @@ package pack12;
 public class Class12 {
 
 	public int r(){
-		System.err.println("r...");
+		System.err.prin("r...");
 		return 0;
 	}
 	
