@@ -16,4 +16,8 @@ public class Class12 {
 		System.err.println("r1");
 		return 0;
 	}
+	public int r2(){
+		System.err.println("r1");
+		return 0;
+	}
 }
