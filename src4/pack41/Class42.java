@@ -6,4 +6,6 @@ public class Class42 {
   
   //class42_1
   
+	
+	//changed in master
 }
